@@ -1,0 +1,54 @@
+/* 
+  Style your elements by creating CSS classes here.
+  Below, you can see an example of a class called "menu" that changes the color of the text to blue. Modify according to your needs.
+*/
+
+.menu {
+  color: black;
+}
+
+body {
+  color: black;
+}
+
+.advertise {
+  font-family: "cursive";
+  color: rgb(3, 103, 143);
+}
+
+.slogan {
+  color: grey;
+  font-family: monospace;
+}
+
+button {
+  border-radius: 35px;
+}
+
+img {
+  border-radius: 35px;
+}
+
+.col{
+  flex: 20%;
+  width: 30px;
+}
+
+.col-md-6{
+  flex: 10%;
+  width: 10px;
+}
+
+.col-xs-6{
+  flex: 10%;
+  width: 10px;
+}
+
+.row{
+  display: flex;
+}
+
+div {
+  padding-bottom: 10px;
+  top: 50%;
+}
